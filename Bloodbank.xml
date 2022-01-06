@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="BM.xsl"?>
+<Bloodbank  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="BBM.xsd">
+    <details>
+        <donor id="D101">
+            <name> Rohan </name>
+            <sex> Male </sex>
+            <age> 21 </age>
+            <blood-group> A- </blood-group>
+            <quantity> 1.5 </quantity>
+            <contact> 7907315588 </contact>
+            <date> 05/04/2020 </date>
+           
+        </donor>
+        <donor id="D102">
+            <name> John </name>
+            <sex> Male </sex>
+            <age> 24 </age>
+            <blood-group> O- </blood-group>
+            <quantity> 4.5 </quantity>
+            <contact> 4565123456 </contact>
+            <date> 05/07/2020 </date>
+        </donor>
+        <donor id="D103">
+            <name> Tom </name>
+            <sex> Male </sex>
+            <age> 25 </age>
+            <blood-group> O+ </blood-group>
+            <quantity> 6 </quantity>
+            <contact> 9878679809 </contact>
+            <date> 05/10/2020 </date>
+        </donor>
+        <donor id="D104">
+            <name> Arathi </name>
+            <sex> Female </sex>
+            <age> 27 </age>
+            <blood-group> O+ </blood-group>
+            <quantity> 3 </quantity>
+            <contact> 6578679866 </contact>
+            <date> 05/11/2020 </date>
+        </donor>
+        <donor id="D102">
+            <name> Christine </name>
+            <sex> Male </sex>
+            <age> 31 </age>
+            <blood-group> B+ </blood-group>
+            <quantity> 5 </quantity>
+            <contact> 9567312281 </contact>
+            <date> 05/12/2020 </date>
+        </donor>
+
+        
+    </details>
+
+</Bloodbank>
