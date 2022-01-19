@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DonorManagement >
+	
+
+	<donor>
+            <donor_name> MRINIS </donor_name>
+            <donate_id>1001</donate_id>
+            <blood_grp>Cornerback</blood_grp>
+            <donate_date>29 JAN 2000</donate_date>
+            <quantity>30000</quantity>
+            <address>Spain</address>
+            <contact_no>1234098765</contact_no>
+            
+	</donor>
+
+    <donor>
+      
+            <donor_name> BALE </donor_name>
+            <donate_id>1003</donate_id>
+            <blood_grp>Quarterback</blood_grp>
+            <donate_date>25 NOV 2001</donate_date>
+            <quantity>40000</quantity>
+            <address>Korea</address>
+            <contact_no>9876540123</contact_no>
+    </donor>
+
+    <donor>
+            <donor_name> DAVID </donor_name>
+            <donate_id>1001</donate_id>
+            <blood_grp>Tight end</blood_grp>
+            <donate_date>12 FEB 1998</donate_date>
+            <quantity>50000</quantity>
+            <address>Barcelona</address>
+            <contact_no>7874561230</contact_no>
+    </donor>
+
+    <donor>
+            <donor_name> ROBERT </donor_name>
+            <donate_id>1005</donate_id>
+            <blood_grp>Defensive Linemen</blood_grp>
+            <donate_date>29 JAN 2000</donate_date>
+            <quantity>60000</quantity>
+            <address>Austria</address>
+            <contact_no>3546092378</contact_no>
+    </donor>
+
+    <donor>
+            <donor_name>ALFRED DENNISON </donor_name>
+            <donate_id>1006</donate_id>
+            <blood_grp>Cornerback</blood_grp>
+            <donate_date>26 MAY 2001</donate_date>
+            <quantity>70000</quantity>
+            <address>Vienna</address>
+            <contact_no>9645547431</contact_no>
+
+        </donor>
+
+    <donor>
+            <donor_name> WILL SMITH </donor_name>
+            <donate_id>1006</donate_id>
+            <blood_grp>Tight end</blood_grp>
+            <donate_date>26 MAY 2001</donate_date>
+            <quantity>40000</quantity>
+            <address>Paris</address>
+            <contact_no>6584723548</contact_no>
+    </donor>
+
+    <donor>
+        
+            <donor_name>JON SNOW </donor_name>
+            <donate_id>1002</donate_id>
+            <blood_grp>Defensive Linemen</blood_grp>
+            <donate_date>6 DEC 2002</donate_date>
+            <quantity>50000</quantity>
+            <address>Berlin</address>
+            <contact_no>7254023148</contact_no>
+    </donor>
+
+    <donor>
+     
+            <donor_name> NOAH EDWIN </donor_name>
+            <donate_id>1005</donate_id>
+            <blood_grp>FIELDER</blood_grp>
+            <donate_date>4 JULY 2002</donate_date>
+            <quantity>30000</quantity>
+            <address>Helsinki</address>
+            <contact_no>5478565214</contact_no>
+		
+    </donor>
+
+    <donor>
+     
+            <donor_name>NEWMAN DEW </donor_name>
+            <donate_id>1001</donate_id>
+            <blood_grp>KICKER</blood_grp>
+            <donate_date>1 SEP 2005</donate_date>
+            <quantity>30000</quantity>
+            <address>Barcelona</address>
+            <contact_no>9867458245</contact_no>
+    
+        </donor>
+
+    <donor>
+    
+            <donor_name> CHARLES </donor_name>
+            <donate_id>1001</donate_id>
+            <blood_grp>SAFETY</blood_grp>
+            <donate_date>5 FEB 2003</donate_date>
+            <quantity>30000</quantity>
+            <address>Tokyo</address>
+            <contact_no>7548214563</contact_no>
+		
+    </donor>
+
+
+
+</DonorManagement>
