@@ -1,6 +1,6 @@
 const state = {
     xmlDocObj:null,
-    nodes:['player_name','sport_id','specialisation','join_date','salary','address','contact_no']
+    nodes:['donor_name','donate_id','blood_grp','donate_date','quantity','address','contact_no']
 }
 
 
@@ -27,13 +27,13 @@ const showTable = (xmlRes) => {
     state.xmlDocObj = xmlRes;
     let table;
     table = `<tr style='background:#4a3030;color:#fff;'>
-        <th>player_name</th>
-        <th>sport_id</th>
-        <th>specialisation</th>
-        <th>join_date</th>
-        <th>salary</th>
-        <th>address</th>
-        <th>contact_no</th>
+        <th>Donor Name</th>
+        <th>Donate Id</th>
+        <th>Blood Group</th>
+        <th>Donate Date</th>
+        <th>Quantity</th>
+        <th>Address</th>
+        <th>Contact_no</th>
         <th>Actions</th>
         </tr>`;
     const x = xmlRes.getElementsByTagName("donor");
